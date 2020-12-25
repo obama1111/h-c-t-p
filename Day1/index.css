@@ -1,0 +1,45 @@
+body {
+    background-image: url("IMAGE/hero.jpg");
+    background-size: cover;
+    filter:brightness(50%);
+}
+#Head1 {
+    color: white;
+    margin-top: 150px;
+    margin-left: 10%;
+}
+#Head2 {
+    color: white;
+    margin-left: 10%;
+}
+#button {
+    margin-left: 10%;
+    display: inline-block;
+    border-radius: 30px  ;
+    background-color: orange;
+    inline-size: 200px;
+    block-size: 50px;
+    border-color: black;
+}
+#button2 {
+    
+    display: inline-block;
+    border-radius: 30px  ;
+    background-color:  black;
+    inline-size: 200px;
+    block-size: 50px;
+    color: orange;
+    border-color: orange;
+}
+#logo {
+    width: 80px;
+    height: 80px;
+    margin-left: 20%;
+    margin-top: 20px;
+}
+.menu {
+    color: white;
+    font-size: 30px;
+    display: inline;
+    margin-left: 50px;
+}
