@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+  background-color: plum;
+}
+#header {
+    font-size: 50px;
+    margin: 5px 0px
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#linkedin {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+img {
+    margin: 25px 0px 10px 540px;
+    width: 10%;
+    height: 10%
+}
+
+.input-email {
+    margin: 10px 0 20px 0
+}
+.input-password {
+    margin: 10px 0 20px 0
+}
+
+#sign-in-button {
+    margin-top: 20px;
+    background-color: snow;
+    color: black;
+    border: none;
+    padding: 12px 140px;
+    border-radius: 40px
+}
+
+p {
+    font-size: 18px;
+}
+input {
+    width: 100%;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+#pass {
+    color: green
+}
+
+form {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    border-radius: 15px
+}
+
+.formBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#thumbnail {
+    margin: 5px 0px 35px 0px
+}
